@@ -1,3 +1,9 @@
 test!!
 userA 메모장 확인완료!
+<<<<<<< HEAD
 userA 메모장 작업완료!!!>>userA의 오류 발견>>admin에서 수정 완료
+=======
+userA 메모장 작업완료!!!
+userB 메모장 확인 완료
+userB 작업 완료
+>>>>>>> origin/B_branch
